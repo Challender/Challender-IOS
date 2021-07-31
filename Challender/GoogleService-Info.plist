@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>106441101571-ngs22muehfep3vinssa0sf5blfsjismr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.106441101571-ngs22muehfep3vinssa0sf5blfsjismr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCAqcuBJhWdp5mNpmdO2zU6AqAzy73nC20</string>
+	<key>GCM_SENDER_ID</key>
+	<string>106441101571</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.callender.Challender</string>
+	<key>PROJECT_ID</key>
+	<string>challender-e98c5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>challender-e98c5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:106441101571:ios:7c61483dbb29169beed936</string>
+	<key>DATABASE_URL</key>
+	<string>https://challender-e98c5-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
